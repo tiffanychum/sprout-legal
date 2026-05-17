@@ -1,7 +1,7 @@
 # Privacy Policy — Sprout
 
 **Effective date:** 12 May 2026  
-**Last updated:** 12 May 2026  
+**Last updated:** 17 May 2026  
 **App name:** Sprout – Plant Care & Feng Shui  
 **Developer:** Chum Man Lee ("we", "us", "our")  
 **Contact:** sprout.app.support@gmail.com
@@ -12,11 +12,27 @@
 
 Sprout is an iOS app for plant care tracking, AI-assisted plant diagnosis, and feng shui plant guidance. It is developed and operated by Chum Man Lee, an individual developer based in Hong Kong.
 
+**This app is not offered in, and these Terms do not apply to users located in, Mainland China, the Russian Federation, or the Republic of Turkey.** If you are located in one of those territories, please do not download or use the App.
+
 For data protection enquiries, contact us at **sprout.app.support@gmail.com**. We aim to respond within **30 days**.
 
 ---
 
-## 2. What Data We Collect and Why
+## 2. Availability and Excluded Territories
+
+Sprout is available worldwide through the Apple App Store, **with the exception of the following territories where the App is not offered:**
+
+| Territory | Reason |
+|---|---|
+| 🇨🇳 Mainland China | Compliance with China's Personal Information Protection Law (PIPL) and ICP filing requirements would require infrastructure and registrations not currently in place. |
+| 🇷🇺 Russian Federation | Russia's data localisation law (Federal Law No. 242-FZ) requires personal data of Russian citizens to be stored on servers within Russia, which our third-party infrastructure does not support. |
+| 🇹🇷 Republic of Turkey | Turkey's KVKK (Law No. 6698) requires a registered data controller representative within Turkey, which we do not currently maintain. |
+
+If you access the App from one of the above territories despite this restriction, you do so at your own risk and we make no representations that the App or this Policy complies with the laws of those jurisdictions.
+
+---
+
+## 3. What Data We Collect and Why
 
 We collect the minimum data necessary to operate the app. The table below is a complete inventory.
 
@@ -34,13 +50,13 @@ Sign in with Apple shares only an opaque anonymous identifier with us — your A
 
 ---
 
-## 3. Push Notifications
+## 4. Push Notifications
 
 Care reminders are **local notifications** generated entirely on your device by the iOS scheduler. No data leaves your device for notification delivery. We do not operate a push notification server.
 
 ---
 
-## 4. Third-Party Data Processors
+## 5. Third-Party Data Processors
 
 We use the following sub-processors, each governed by their own privacy policy. By using Sprout you acknowledge that your data may be processed by these services.
 
@@ -55,7 +71,7 @@ We do not sell your data to any third party. We do not use your data for adverti
 
 ---
 
-## 5. Data Retention
+## 6. Data Retention
 
 | Data | Retention period |
 |---|---|
@@ -67,7 +83,7 @@ We do not sell your data to any third party. We do not use your data for adverti
 
 ---
 
-## 6. Your Rights
+## 7. Your Rights
 
 Regardless of where you are located, you may contact us at **sprout.app.support@gmail.com** to:
 
@@ -100,7 +116,7 @@ You may exercise your rights under the **Personal Data Protection Act** (個人�
 
 ---
 
-## 7. Children
+## 8. Children
 
 Sprout is not directed at children under the age of 13 and does not knowingly collect personal information from anyone under 13. If you believe a child under 13 has provided personal information through the app, please contact us at sprout.app.support@gmail.com and we will delete it promptly.
 
@@ -108,25 +124,25 @@ This app is rated 4+ and contains no content that would attract use by children 
 
 ---
 
-## 8. Data Security
+## 9. Data Security
 
 We rely on industry-standard security measures provided by our third-party processors (Google Firebase and RevenueCat), including TLS encryption in transit and AES encryption at rest. On-device data is protected by iOS device encryption. However, no system is completely secure, and we cannot guarantee absolute security.
 
 ---
 
-## 9. International Data Transfers
+## 10. International Data Transfers
 
 Our third-party processors (Google, RevenueCat) may store and process data in the United States or other countries outside your jurisdiction. Google and RevenueCat participate in data transfer frameworks that provide appropriate safeguards for cross-border transfers, including Standard Contractual Clauses under UK GDPR and EU GDPR.
 
 ---
 
-## 10. Changes to This Policy
+## 11. Changes to This Policy
 
 We will notify you of material changes by updating the "Last updated" date above. Continued use of the app after the effective date of any change constitutes acceptance of the updated policy. We encourage you to review this policy periodically.
 
 ---
 
-## 11. Contact
+## 12. Contact
 
 **Chum Man Lee**  
 Email: sprout.app.support@gmail.com  

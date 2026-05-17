@@ -1,7 +1,7 @@
 # Terms of Use — Sprout
 
 **Effective date:** 12 May 2026  
-**Last updated:** 12 May 2026  
+**Last updated:** 17 May 2026  
 **App name:** Sprout – Plant Care & Feng Shui  
 **Developer:** Chum Man Lee ("we", "us", "our")  
 **Contact:** sprout.app.support@gmail.com
@@ -12,11 +12,23 @@
 
 By downloading, installing, or using Sprout ("the App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree, do not use the App.
 
-These Terms form a legal agreement between you and Chum Man Lee. They apply to all users worldwide.
+These Terms form a legal agreement between you and Chum Man Lee. They apply to all permitted users as set out in §2 below.
 
 ---
 
-## 2. Licence to Use
+## 2. Availability and Excluded Territories
+
+Sprout is distributed worldwide through the Apple App Store, **except in the following territories where the App is not offered and these Terms do not apply:**
+
+- 🇨🇳 **Mainland China** — not offered due to PIPL and ICP filing requirements
+- 🇷🇺 **Russian Federation** — not offered due to data localisation requirements under Federal Law No. 242-FZ
+- 🇹🇷 **Republic of Turkey** — not offered due to KVKK data controller representative requirements
+
+By accepting these Terms you confirm you are not located in any of the above territories. If you are located in one of those territories, please do not download or use the App.
+
+---
+
+## 3. Licence to Use
 
 We grant you a **limited, non-exclusive, non-transferable, revocable licence** to use the App on Apple devices you own or control, solely for personal, non-commercial purposes, in accordance with Apple's App Store Terms of Service and these Terms.
 
@@ -28,7 +40,7 @@ You may not:
 
 ---
 
-## 3. Subscriptions and In-App Purchases
+## 4. Subscriptions and In-App Purchases
 
 ### 3.1 Free and Pro tiers
 
@@ -65,7 +77,7 @@ If you reinstall the App or switch devices, tap "Restore Purchases" in the App s
 
 ---
 
-## 4. User-Generated Content
+## 5. User-Generated Content
 
 You may add plant names, care notes, and photos to the App ("Your Content"). All Your Content is stored **on your device only** and is not uploaded to our servers.
 
@@ -75,7 +87,7 @@ You retain all ownership rights to Your Content. You are responsible for ensurin
 
 ---
 
-## 5. AI Diagnosis Disclaimer
+## 6. AI Diagnosis Disclaimer
 
 The AI-powered plant diagnosis feature provides **general informational suggestions only**. It is not a substitute for advice from a qualified horticulturalist, botanist, or plant care professional. Results may be inaccurate. We accept no liability for decisions made based on AI diagnosis output.
 
@@ -83,19 +95,19 @@ Feng shui placement suggestions are provided for entertainment and cultural refe
 
 ---
 
-## 6. App Content and Intellectual Property
+## 7. App Content and Intellectual Property
 
 All content in the App — including the plant encyclopedia, care guides, images, feng shui notes, UI design, and branding — is owned by or licensed to Chum Man Lee and is protected by copyright and other intellectual property laws. You may not reproduce or distribute this content without our written permission.
 
 ---
 
-## 7. Availability and Updates
+## 8. Availability and Updates
 
 We may update, modify, or discontinue the App or any feature at any time without notice. We do not guarantee that the App will be available at all times or free from errors. We may release updates and may require you to install them to continue using certain features.
 
 ---
 
-## 8. Prohibited Use
+## 9. Prohibited Use
 
 You agree not to:
 - Use the App for any unlawful purpose
@@ -105,13 +117,13 @@ You agree not to:
 
 ---
 
-## 9. Disclaimer of Warranties
+## 10. Disclaimer of Warranties
 
 THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE ERROR-FREE, UNINTERRUPTED, OR THAT ANY DEFECTS WILL BE CORRECTED.
 
 ---
 
-## 10. Limitation of Liability
+## 11. Limitation of Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, CHUM MAN LEE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APP, INCLUDING ANY LOSS OF PROFIT, DATA, OR GOODWILL, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
@@ -121,7 +133,7 @@ Nothing in these Terms limits or excludes any liability that cannot be limited o
 
 ---
 
-## 11. Governing Law and Dispute Resolution
+## 12. Governing Law and Dispute Resolution
 
 These Terms are governed by the laws of the **Hong Kong Special Administrative Region**, without regard to its conflict of laws provisions.
 
@@ -135,13 +147,13 @@ For all disputes, please contact us first at **sprout.app.support@gmail.com**. W
 
 ---
 
-## 12. Changes to These Terms
+## 13. Changes to These Terms
 
 We may update these Terms from time to time. We will notify you of material changes by updating the "Last updated" date at the top of this document. Continued use of the App after any change constitutes your acceptance of the new Terms.
 
 ---
 
-## 13. Contact
+## 14. Contact
 
 **Chum Man Lee**  
 Email: sprout.app.support@gmail.com
