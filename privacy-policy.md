@@ -4,7 +4,7 @@
 **Last updated:** 12 May 2026  
 **App name:** Sprout – Plant Care & Feng Shui  
 **Developer:** Chum Man Lee ("we", "us", "our")  
-**Contact:** makszelai@gmail.com
+**Contact:** sprout.app.support@gmail.com
 
 ---
 
@@ -12,7 +12,7 @@
 
 Sprout is an iOS app for plant care tracking, AI-assisted plant diagnosis, and feng shui plant guidance. It is developed and operated by Chum Man Lee, an individual developer based in Hong Kong.
 
-For data protection enquiries, contact us at **makszelai@gmail.com**. We aim to respond within **30 days**.
+For data protection enquiries, contact us at **sprout.app.support@gmail.com**. We aim to respond within **30 days**.
 
 ---
 
@@ -69,7 +69,7 @@ We do not sell your data to any third party. We do not use your data for adverti
 
 ## 6. Your Rights
 
-Regardless of where you are located, you may contact us at **makszelai@gmail.com** to:
+Regardless of where you are located, you may contact us at **sprout.app.support@gmail.com** to:
 
 - **Access** a copy of any personal data we hold about you
 - **Correct** inaccurate data
@@ -102,7 +102,7 @@ You may exercise your rights under the **Personal Data Protection Act** (個人�
 
 ## 7. Children
 
-Sprout is not directed at children under the age of 13 and does not knowingly collect personal information from anyone under 13. If you believe a child under 13 has provided personal information through the app, please contact us at makszelai@gmail.com and we will delete it promptly.
+Sprout is not directed at children under the age of 13 and does not knowingly collect personal information from anyone under 13. If you believe a child under 13 has provided personal information through the app, please contact us at sprout.app.support@gmail.com and we will delete it promptly.
 
 This app is rated 4+ and contains no content that would attract use by children under 13.
 
@@ -129,6 +129,6 @@ We will notify you of material changes by updating the "Last updated" date above
 ## 11. Contact
 
 **Chum Man Lee**  
-Email: makszelai@gmail.com  
+Email: sprout.app.support@gmail.com  
 
 For UK GDPR data subject requests, please use the subject line "UK GDPR Data Request" so we can prioritise your enquiry.

@@ -4,7 +4,7 @@
 **Last updated:** 12 May 2026  
 **App name:** Sprout – Plant Care & Feng Shui  
 **Developer:** Chum Man Lee ("we", "us", "our")  
-**Contact:** makszelai@gmail.com
+**Contact:** sprout.app.support@gmail.com
 
 ---
 
@@ -131,7 +131,7 @@ These Terms are governed by the laws of the **Hong Kong Special Administrative R
 
 **Australian residents:** Our goods and services come with guarantees that cannot be excluded under the Australian Consumer Law.
 
-For all disputes, please contact us first at **makszelai@gmail.com**. We will make reasonable efforts to resolve any complaint informally before any formal proceedings.
+For all disputes, please contact us first at **sprout.app.support@gmail.com**. We will make reasonable efforts to resolve any complaint informally before any formal proceedings.
 
 ---
 
@@ -144,6 +144,6 @@ We may update these Terms from time to time. We will notify you of material chan
 ## 13. Contact
 
 **Chum Man Lee**  
-Email: makszelai@gmail.com
+Email: sprout.app.support@gmail.com
 
 For subscription billing issues, please also use Apple's support at [apple.com/support](https://www.apple.com/support).
